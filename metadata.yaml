@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1794
     wikipedia: http://en.wikipedia.org/wiki/Henry_Sweet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34316#Anglo-Saxon-Primer-With-Grammar-Notes-and-Glossary--13-Eighth-Edition-Revised
 gutenberg_issued: '2010-11-14'
 gutenberg_type: Text
 identifiers:
