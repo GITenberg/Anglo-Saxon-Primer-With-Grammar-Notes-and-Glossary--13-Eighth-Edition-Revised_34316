@@ -1,0 +1,28 @@
+_repo: Anglo-Saxon-Primer-With-Grammar-Notes-and-Glossary--13-Eighth-Edition-Revised_34316
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sweet, Henry
+    birthdate: 1845
+    deathdate: 1912
+    gutenberg_agent_id: '1794'
+    url: http://www.gutenberg.org/2009/agents/1794
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sweet
+description: ''
+gutenberg_issued: '2010-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Old English, ca. 450-1100 -- Grammar'
+- !lcsh 'English language -- Old English, ca. 450-1100 -- Readers'
+title: "Anglo-Saxon Primer, With Grammar, Notes, and Glossary\r\nEighth Edition Revised"
+url: http://www.gutenberg.org/ebooks/34316
